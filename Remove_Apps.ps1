@@ -35,3 +35,9 @@ Get-AppxPackage *windowsstore* | Remove-AppxPackage
 Get-AppxPackage *soundrecorder* | Remove-AppxPackage
 
 Get-AppxPackage *bingweather* | Remove-AppxPackage
+
+Get-AppxPackage Microsoft.OneConnect | Remove-AppxPackage
+
+get-appxpackage *feedback* | remove-appxpackage
+
+Get-AppxPackage Microsoft.Microsoft3DViewer | Remove-AppxPackage
