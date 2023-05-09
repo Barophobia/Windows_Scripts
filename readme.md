@@ -13,6 +13,7 @@ All scripts should be run as admin, there is currently no particular order.
 ```
 ./LGPO.exe /g "FOLDERNAME"
 ```
+- Once the import is complete do a gpupdate to make sure they take effect.
 
 ## Disclaimer 
 These are used at your own risk :)
